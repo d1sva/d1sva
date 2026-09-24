@@ -1,16 +1,17 @@
-## Hi there 👋
+# Диана Сотникова
 
-<!--
-**d1sva/d1sva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студентка 2 курса бакалавриата ИТМО, Факультет технологий искусственного интеллекта (ФТИИ),
+направление «Инженерия искусственного интеллекта».
 
-Here are some ideas to get you started:
+Интересуюсь мультиагентными системами, LLM-агентами и прикладным ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+Python · pandas · NumPy · scikit-learn · FastAPI · Git · SQL
+
+## Проекты
+- **[Проект 1](https://github.com/d1sva/project-1)**: одна строка, что делает и на чём
+- **[Проект 2](https://github.com/d1sva/project-2)**: одна строка, что делает и на чём
+- **[Multi-agent API](https://github.com/d1sva/...)**: REST API для мультиагентного пайплайна на LLM
+
+## Контакты
+Telegram: [@migl_gl](https://t.me/migl_gl) · E-mail: disvae@gmail.com
